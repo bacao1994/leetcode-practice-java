@@ -1,5 +1,4 @@
-The Two Pointers pattern involves using two pointers to iterate through an array or list, often used to find pairs or elements that meet specific criteria.
-Use this pattern when dealing with sorted arrays or lists where you need to find pairs that satisfy a specific condition.
+The Two Pointers pattern involves using two pointers to iterate through an array or list, often used to find pairs or elements that meet specific criteria. Use this pattern when dealing with sorted arrays or lists where you need to find pairs that satisfy a specific condition.
 
 ## Sample Problem:
 Find two numbers in a sorted array that add up to a target value.
