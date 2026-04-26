@@ -1,4 +1,4 @@
-package slidingwindow;
+package patterns.slidingwindow;
 
 /*
 * Maximum Average Subarray I (LeetCode #643)

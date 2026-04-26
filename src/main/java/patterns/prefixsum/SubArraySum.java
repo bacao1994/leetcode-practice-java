@@ -1,4 +1,4 @@
-package prefixsum;
+package patterns.prefixsum;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package slidingwindow;
+package patterns.slidingwindow;
 
 import java.util.HashSet;
 import java.util.Set;

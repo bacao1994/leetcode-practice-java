@@ -1,4 +1,4 @@
-package twopointers;
+package patterns.twopointers;
 
 /*
  * Leetcode 11: Container With Most Water

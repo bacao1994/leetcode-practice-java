@@ -1,4 +1,4 @@
-package prefixsum;
+package patterns.prefixsum;
 
 /*
 * Leetcode 525: ContiguousArray
